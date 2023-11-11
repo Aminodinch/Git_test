@@ -1,8 +1,5 @@
 
 # Git_test
-This is my first Repo
-
-
-
-for a school porject
+This is my repo for a school project
+School 
 Hello Odin !
